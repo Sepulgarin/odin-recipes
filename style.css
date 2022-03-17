@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(236, 228, 217);
+}
+
+h1,
+h4 {
+    background-color: rgb(255, 212, 147);
+    color: rgb(83, 83, 83);
+    text-align: center;
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+li,
+p {
+    font-family: "Trebuchet MS", sans-serif;
+    color: rgb(83, 83, 83);
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
